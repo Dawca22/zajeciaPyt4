@@ -9,5 +9,6 @@ liczba_a = round(45.43535)
 print(liczba_a)
 print(liczba_a % 8)
 
-wynik = round(a,3) == b
+wynik = round(a,3) == round(b,3)
+
 print(wynik)
