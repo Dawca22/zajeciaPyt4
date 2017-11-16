@@ -1,0 +1,8 @@
+imie = "ola"
+
+def wypisz_imie():
+    global imie
+    duze_imie = imie.upper()
+    return duze_imie
+
+print(imie)
