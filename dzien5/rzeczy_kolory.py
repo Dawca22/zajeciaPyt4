@@ -1,6 +1,6 @@
 rzeczy = ("pisak", "długopis", "szklanka", "portfel", "myszka")
 kolory = ("czerwony", "zielony", "niebieski", "fioletowy", )
-
+print(type(rzeczy))
 # x jest koloru: y
 
 #while

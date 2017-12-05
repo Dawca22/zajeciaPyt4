@@ -8,7 +8,7 @@ if True:
 
 if 5!= 20 / 4:
     print("Drugi if")
-elif 5 == 5 and 20 % 2 == 1:
+elif 5 == 5:
     print('Drugi if, elif')
 elif 45 % 3 == 12:
     print('elif modulo')

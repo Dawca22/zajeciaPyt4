@@ -1,11 +1,11 @@
 imie = "Joanna"
 nazwisko = "Kowalska"
 wiek = 34
-#print(imie)
-# print(imie[3:5])
-#print(3 + 7)
-#print(imie[:4])
-#print(imie.lower())#
+print(imie)
+print(imie[3:5])
+print(3 + 7)
+print(imie[:3])
+print(imie.lower())#
 
 print(imie + ' ' + nazwisko + 'ma' + str(wiek) + 'lata.')
 

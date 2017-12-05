@@ -12,7 +12,7 @@ nazwisko = input("Podaj nazwisko:\n ")
 #print(type(nazwisko))
 
 #jeśli w stringu są cyfry napisać komunikat i przerwać program
-if not nazwsiko.isalpha():
+if not nazwisko.isalpha():
     print("Muszą być tylko litery")
 
 #usunąć whistpace z początku i końca

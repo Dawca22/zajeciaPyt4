@@ -5,8 +5,8 @@ inty = list(range(100))
 print(zakres)
 print(inty)
 
-# for i in zakres:
-#     print(i)
-#
-# for j in inty:
-#     print(j)
+for i in zakres:
+    print(i)
+
+for j in inty:
+    print(b)

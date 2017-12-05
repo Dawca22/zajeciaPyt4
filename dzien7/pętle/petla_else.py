@@ -1,4 +1,4 @@
-for x in range(10):
+for x in range(15):
     if x**2> 100:
         print(f"Kwadrat {x} jest większy od 100")
         break
